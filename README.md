@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👋 Hi there, my name is Eliza.
+### 👋 Hi there, my name is Eliza.
 
 ![Snake animation](https://github.com/wollieliza/wollieliza/blob/output/github-contribution-grid-snake.svg)
 
