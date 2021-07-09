@@ -13,20 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hi there! My name is Eliza. 👋 </h1>
+###### 👋 Hi there, my name is Eliza.
 
-<div>
-  <a href="https://github.com/wollieliza">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wollieliza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wollieliza&&layout=compact&hide=shell&theme=midnight-purple"/>
-</div>
- <br>
-<div  align="center"> 
-  <a href="https://www.linkedin.com/in/elizawollinger/" target="_blank"><i class="fab fa-linkedin"></i></a> 
-  <a href="https://www.behance.net/elizawollinger" target="_blank"><i class="fab fa-behance-square"></i></a> 
-  <a href="https://twitter.com/wollieli" target="_blank"><i class="fab fa-twitter-square"></i></a>
+![Snake animation](https://github.com/wollieliza/wollieliza/blob/output/github-contribution-grid-snake.svg)
 
- 
-  ![Snake animation](https://github.com/wollieliza/wollieliza/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### 👩‍💻 About me:
+
+### ⚙️ Languages and Tools:
+
+- Python
+- MatLAB
+- Java
+- HTML5
+- CSS3
+
+### 🔥 Profile Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollieliza&theme=graywhite)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wollieliza&show_icons=true&theme=graywhite) 
