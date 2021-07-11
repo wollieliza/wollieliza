@@ -2,7 +2,7 @@
 **wollieliza/wollieliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hello word! My name is Eliza.
+# 👋 Hello world! My name is Eliza.
 
 ![Snake animation](https://github.com/wollieliza/wollieliza/blob/output/github-contribution-grid-snake.svg)
 
