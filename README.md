@@ -22,5 +22,7 @@ I'm freelancers in the areas of graphic design and UI/UX 👩🏻‍🎨, and wh
 
 ## 🔥 Profile Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wollieliza&show_icons=true&theme=graywhite)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollieliza&layout=compact&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wollieliza&show_icons=true&theme=graywhite)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=wollieliza&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollieliza&layout=compact&theme=graywhite)
 
