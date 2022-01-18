@@ -10,8 +10,10 @@ Hi, I'm an engineering student 👩‍🔧 with a passion for technology and des
 
 I'm freelancers in the areas of graphic design and UI/UX 👩🏻‍🎨, and whenever possible I'm improving myself, I have knowledge in Adobe Suite software.
 
+
 🔍 Find me on: [LinkedIn](https://www.linkedin.com/in/elizawollinger/) or [Behance](https://www.behance.net/elizawollinger)
-📋 My resume: [Resume](https://drive.google.com/file/d/13tdTVR49mQZyjU6VLZLhiPfNw5jtHwgm/view?usp=sharing)
+
+📋 My resume: [Resume](https://drive.google.com/file/d/13tdTVR49mQZyjU6VLZLhiPfNw5jtHwgm/view?usp=sharing) in english or [Curriculum](https://drive.google.com/file/d/12TPiPGFBPSgeGHpuMyyyGs4NZyOLAXwR/view?usp=sharing) in portuguese.
 
 ---
 
