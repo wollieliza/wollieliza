@@ -13,7 +13,7 @@ I'm freelancers in the areas of graphic design and UI/UX 👩🏻‍🎨, and wh
 
 🔍 Find me on: [LinkedIn](https://www.linkedin.com/in/elizawollinger/) or [Behance](https://www.behance.net/elizawollinger)
 
-📋 My resume: [Resume](https://drive.google.com/file/d/13tdTVR49mQZyjU6VLZLhiPfNw5jtHwgm/view?usp=sharing) in english or [Curriculum](https://drive.google.com/file/d/12TPiPGFBPSgeGHpuMyyyGs4NZyOLAXwR/view?usp=sharing) in portuguese.
+📋 My resume: in [english](https://drive.google.com/file/d/13tdTVR49mQZyjU6VLZLhiPfNw5jtHwgm/view?usp=sharing) or in [portuguese](https://drive.google.com/file/d/12TPiPGFBPSgeGHpuMyyyGs4NZyOLAXwR/view?usp=sharing).
 
 ---
 
