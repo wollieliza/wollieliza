@@ -63,7 +63,6 @@ I'm freelancers in the areas of graphic design and UI/UX 👩🏻‍🎨, and wh
 
 <div align="center" id="badges"> 
   <img id="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello icon"/>
-  <img id="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft office icon"/>
   <img id="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="microsoft word icon"/>
   <img id="power-point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="power point icon"/>
   <img id="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="microsoft excel icon"/>
